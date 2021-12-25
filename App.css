@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    flex-direction: column;  
+    text-align: center;
+}
+
+
+
+
+
+h1{
+    color: rgb(150, 150, 175);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
